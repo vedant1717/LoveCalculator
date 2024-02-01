@@ -26,6 +26,7 @@ print('''
               `-._)-._)
 
 ''')
+print("Welcome to the Love Calculator ❤️")
 while should_continue:
     male_name=input("Enter your name:\n")
     female_name=input("Enter your partner's name:\n")
